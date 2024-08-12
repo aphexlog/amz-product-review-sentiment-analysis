@@ -2,7 +2,7 @@
 
 ## Day 1: Data Collection & Preprocessing
 
-    •	Task: Use an existing dataset of Amazon product reviews (you can find one on Kaggle or the AWS datasets).
+    •	Task: Use an existing dataset of Amazon product reviews. For this exercise, we will use [this Kaggle dataset](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews).
     •	Steps:
     •	Load the dataset into a SageMaker notebook.
     •	Perform basic data cleaning (e.g., removing null values, basic text preprocessing like lowercasing, removing punctuation, etc.).
