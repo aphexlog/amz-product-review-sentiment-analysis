@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.dist-info/
+build/
+develop-eggs/
+.eggs/
+.eggs-info/
+
+# Logs
+*.log
+
+# CSV files
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
